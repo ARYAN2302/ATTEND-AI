@@ -1,3 +1,4 @@
+**STILL UNDER DEVELOPMENT NOT READY FOR USE**
 # AttendAI - Facial Recognition Attendance System
 
 ## Overview
