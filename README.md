@@ -2,14 +2,14 @@
 # AttendAI - Ai Powered Attendance Management System
 
 ## Overview
-AttendAI is an intelligent attendance management system that uses facial recognition technology to automate the attendance tracking process. The system captures attendance through webcam feeds, recognizing registered faces and maintaining attendance records efficiently.
+AttendAI is an intelligent attendance management system that uses facial recognition technology to automate the attendance tracking process. The system captures attendance through photo upload, recognizing registered faces and maintaining attendance records efficiently.
 
 ## Features
 - 👤 Real-time facial recognition
 - 📊 Automated attendance tracking
 - 💾 Database integration for attendance records
 - 🔒 Secure face encoding storage
-- 📱 User-friendly interface
+- 📱 Simple User-friendly interface
 
 ## Prerequisites
 - Python 3.12 or higher
