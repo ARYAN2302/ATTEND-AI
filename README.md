@@ -1,4 +1,4 @@
-**STILL UNDER DEVELOPMENT NOT READY FOR USE**
+**STILL UNDER DEVELOPMENT NOT READY FOR USE**( developmenting restarted date--12mar 2025)
 # AttendAI - Ai Powered Attendance Management System
 
 ## Overview
